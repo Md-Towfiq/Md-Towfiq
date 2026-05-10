@@ -131,14 +131,6 @@ I'm a **Geospatial Engineer & Solutions Architect** at Esri India with expertise
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Towfiq&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Towfiq&layout=compact&theme=radical)
-
----
-
 ## 💡 What I'm Currently Working On
 
 - 🔭 Exploring advanced ArcGIS Enterprise architecture patterns
