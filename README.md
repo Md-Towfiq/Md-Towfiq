@@ -172,17 +172,6 @@ I'm a **Geospatial Engineer & Solutions Architect** at Esri India with expertise
 
 ---
 
-## 🤝 Let's Connect!
-
-I'm always interested in discussing innovative geospatial solutions, cloud infrastructure, and open-source GIS technologies. Feel free to reach out:
-
-📧 **Email**: [mdtowfiq010@gmail.com](mailto:mdtowfiq010@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/mdtowfiq](https://linkedin.com/in/mdtowfiq)  
-🌐 **Portfolio**: [sites.google.com/view/md-towfiq](https://sites.google.com/view/md-towfiq)  
-📱 **Phone**: +91 9382022828
-
----
-
 ## ⭐ Featured Highlights
 
 > *"Passionate about transforming complex geospatial challenges into elegant, scalable solutions using cutting-edge technology and innovation."*
