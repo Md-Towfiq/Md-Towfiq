@@ -45,7 +45,6 @@ I'm a **Geospatial Engineer & Solutions Architect** at Esri India with expertise
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Operating Systems**
 ![Windows](https://img.shields.io/badge/Windows%2010-0078D4?style=for-the-badge&logo=windows&logoColor=white)
@@ -62,17 +61,11 @@ I'm a **Geospatial Engineer & Solutions Architect** at Esri India with expertise
 - Promoted to Senior Engineer for exceptional performance and technical expertise
 
 ### **Esri India** | Managed Service Engineer
-**Jun 2024 - Apr 2026**
+**Dec 2023 - Apr 2026**
 - 🚀 Architected **end-to-end ArcGIS Enterprise migrations** across multi-version environments
 - 🏗️ Designed high-availability ArcGIS Enterprise deployments with customized server role configurations
 - ⚙️ Automated GIS workflows using **PowerShell DSC & ArcPy**, reducing manual workflow time by **25%**
 - 💰 Integrated open-source technologies (ELK Stack, Geoportal), reducing project costs by **30-40%**
-
-### **Esri India** | Managed Service Intern
-**Dec 2023 - May 2024**
-- Deployed and managed ArcGIS Enterprise on Windows and Linux environments
-- Created comprehensive Standard Operating Procedures (SOP) for efficient workflow execution
-- Administered server patches, multi-machine upgrades, and security configurations
 
 ---
 
