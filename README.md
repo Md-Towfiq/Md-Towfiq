@@ -50,7 +50,6 @@ I'm a **Geospatial Engineer & Solutions Architect** at Esri India with expertise
 ![Windows](https://img.shields.io/badge/Windows%2010-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%2022.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
 
@@ -85,29 +84,6 @@ I'm a **Geospatial Engineer & Solutions Architect** at Esri India with expertise
 **Apr 2023 - May 2023**
 - Forest phenological analysis using NDVI & EVI indices via Google Earth Engine
 - Established vegetation-climate correlations with soil moisture and rainfall data
-
----
-
-## 🛠️ Technical Skills
-
-### **GIS & Geospatial Platforms**
-- ArcGIS Enterprise (Server, Portal, Data Store, Notebooks)
-- ArcGIS Pro | AGOL | Google Earth Engine | QGIS
-
-### **Cloud & Infrastructure**
-- Microsoft Azure ☁️ | AWS | PowerShell DSC | Bash/Shell
-- Linux (Ubuntu, RHEL) | Docker | DevOps Automation
-
-### **Programming & Data**
-- **Python** (ArcPy, Geospatial Analytics)
-- **SQL** (PostgreSQL, SQL Server)
-- **Data Technologies**: ELK Stack, ArcGIS Dashboards
-
-### **Specialized Expertise**
-- Remote Sensing & Satellite Imagery Classification
-- 3D Urban Simulation (ENVI-met)
-- Geospatial Workflow Automation
-- Enterprise GIS Architecture
 
 ---
 
